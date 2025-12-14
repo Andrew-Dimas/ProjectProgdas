@@ -1,0 +1,17 @@
+[BOOKS]
+B0001|Fisika Dasar|Halliday|97812345|Sains|10|10
+B0002|Pemrograman C++|Stroustrup|97854321|Teknik|5|5
+B0003|Struktur Data dengan C++|Adam Drozdek|9780534491826|Pemrograman|7|7
+
+[MEMBERS]
+M0001|Andi|andi@mail.com|08123|Yogyakarta|01/02/2024
+M0002|Budi|budi@mail.com|08199|Jakarta|03/02/2024
+M0003|Wowo|wowo@mail.com|08141|Jakarta|11/12/2025
+M0004|Yona|yona@mail.com|08712|Kudus|11/12/2025
+M0005|Nazma|nazma@mail.com|08967|Lampung|11/12/2025
+M0006|Andrew|andrew@mail.com|08579|Sukabumi|11/12/2025
+
+[TRANSACTIONS]
+T0001|B0001|M0001|01/03/2024|15/03/2024|14/12/2025|639000.000000|RETURNED
+T0002|B0002|M0002|01/03/2024|15/03/2024|10/03/2024|0.000000|RETURNED
+T0003|B0001|M0001|14/12/2025|28/12/2025||0.000000|BORROWED
